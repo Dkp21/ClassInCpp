@@ -10,3 +10,8 @@
 
 # Operator over-loading complex number example 
     $ g++ ComplexNumber.cpp --std=c++14
+    
+    
+# Vptr memory demo
+    $ g++ -std=c++11 VptrMemoryDemo.cpp -DVPTR_MEMORY
+    $ g++ -std=c++11 VptrMemoryDemo.cpp
