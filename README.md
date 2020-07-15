@@ -10,3 +10,6 @@
 
 # Operator over-loading complex number example 
     $ g++ ComplexNumber.cpp --std=c++14
+
+# Copy constructor
+    $ g++ CopyConstructor.cpp -std=c++11
